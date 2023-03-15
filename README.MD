@@ -1,5 +1,5 @@
-####此工程不是maven工程,需要将Examination/WebContext/WEB-INF/lib中的jar包打成依赖
-###在resources/mysql.properties中修改连接数据库的密码
+#### 此工程不是maven工程,需要将Examination/WebContext/WEB-INF/lib中的jar包打成依赖
+### 在resources/mysql.properties中修改连接数据库的密码
 ## 登录身份
 | 身份      | username |password|
 | ----------- | ----------- |-----------|
